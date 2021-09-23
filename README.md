@@ -1,4 +1,4 @@
-# good-mem
+# Good Memory Game
 A game that exercises your cognitive recall ability.
 
 1. The user will interact with a canvas that contains the Gud_Mem memory board interface.
