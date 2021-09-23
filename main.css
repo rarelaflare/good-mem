@@ -1,11 +1,22 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box; 
-    border: 3px solid blue;   
-}
 body{
-    background-color:red ;
-    color: white;
+    background-color: oldlace ;
+    color: black;
     /*border: 3px solid green; */
+}
+h3{
+    border: black dotted 5px;
+    width: 21%;
+    padding: 1px;
+    
+}
+
+
+/* NAV BAR STYLING ABOVE THIS LINE */
+
+.grid{
+    display: flex;
+    flex-wrap:wrap;
+    height: 300px;
+    width: 400px;
+    border: rgb(89, 27, 27) 5px solid;
 }
