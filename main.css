@@ -5,13 +5,10 @@ body{
 }
 h3{
     border: black dotted 5px;
-    width: 21%;
+    width: 350px;
     padding: 1px;
     
 }
-
-
-/* NAV BAR STYLING ABOVE THIS LINE */
 
 .grid{
     display: flex;
